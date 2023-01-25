@@ -1,0 +1,18 @@
+.board {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+
+.square {
+    width: 100px;
+    height: 100px;
+    border: 2px solid grey;   
+ }
+
+ .mole {
+    background-image: url("./images/rabbit.png");
+    background-size: cover;
+ }
